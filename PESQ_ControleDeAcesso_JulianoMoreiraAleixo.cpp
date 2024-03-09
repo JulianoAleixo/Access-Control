@@ -1,3 +1,17 @@
+/**************************************************
+ *                                                *
+ *             Algoritmos de Pesquisa             *
+ *               Pesquisa Sequencial              *
+ *                                                *
+ **************************************************
+ *                                                *
+ *  Autor: Juliano Moreira Aleixo                 *
+ *  Disciplina: C03                               *
+ *  Professor: Jonas Lopes de Vilas Boas          *
+ *  Data: 09/03/2024                              *
+ *                                                *
+ **************************************************/
+
 #include <iostream>
 
 using namespace std;
